@@ -1,4 +1,4 @@
-# numberstoWordsjs
+# numbers to Words js
 convert numbers to words in js 
 
 supported languages : fr - en
